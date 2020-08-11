@@ -31,7 +31,7 @@ Don't feel like you have to solve all of these challenges in one sitting (or
 even one year). Many of these challenges will become obvious after you've spent
 some time using the command line on a regular basis, so don't try to force it.
 Solve the challenges that you can and research the ones that you can't. Get
-together with your friends and try to work them out as a team. 
+together with your friends and try to work them out as a team.
 
 INSTRUCTIONS
 --------------------------------------------------------------------------------
@@ -85,15 +85,15 @@ OK! Let's get started.
 
 7. (B) Print the text "Hello World".
 
-8. (B) Create an empty file named "empty.txt"
+8. (B) Create a file named "hello.txt" that contains the text "Hello World".
 
-9. (B) Remove the file "empty.txt"
+9. (B) Create an empty file named "empty.txt"
 
-10. (I) Find a second way to solve challenge 8.
+10. (B) Remove the file "empty.txt"
 
-11. (I) Find a third way to solve challenge 8.
+11. (I) Find a second way to solve challenge 9.
 
-12. (B) Create a file named "hello.txt" that contains the text "Hello World".
+12. (I) Find a third way to solve challenge 9.
 
 13. (B) Copy "hello.txt" and name the copy "goodbye.txt".
 
@@ -110,12 +110,12 @@ OK! Let's get started.
 18. (B) List the contents of the "challenges" directory (like challenge 3), but
     show the permissions for each file.
 
-19. (B) Append some text to the end of "restricted.txt". It's OK if this takes
-    2 steps
+19. (B) Append some text to the end of "restricted.txt". It's OK to do this in
+    2 steps.
 
 20. (B) Run the "hello_executable" program.
 
-21. (B) Run the "challenge_20" program. It's OK if this takes 2 steps. 
+21. (B) Run the "challenge_20" program. It's OK to do this in 2 steps.
 
 22. (B) Compile and run "compile_me.c". It's OK to do this in 2 steps.
 
@@ -124,7 +124,7 @@ OK! Let's get started.
 
 24. (B) Get the current date and time.
 
-25. (B) Show all of the running processes on your computer
+25. (B) Show all of the running processes on your computer.
 
 26. (B) Show the number of processors/cores in your computer.
 
@@ -133,27 +133,27 @@ OK! Let's get started.
 28. (B) Find the file in the "bunch_of_files/" directory that contains the string:
     "You found the needle in the haystack!"
 
-29. (B) Print the first 25 lines of people.csv
+29. (B) Print the first 25 lines of people.csv.
 
-30. (B) Print the last 25 lines of people.csv
+30. (B) Print the last 25 lines of people.csv.
 
 31. (I) Display just the differences between greeting1.txt and greeting2.txt
 
 32. (I) Print "Hello", then wait 5 seconds, then print "world!".
 
-33. (I) Create a 1MB file full of zeros
+33. (I) Create a 1MB file full of zeros.
 
-34. (I) Create a 2MB file full of random data
+34. (I) Create a 2MB file full of random data.
 
-35. (I) Count the number of lines in README.txt
+35. (I) Count the number of lines in README.txt.
 
-36. (B) Display the contents of README.txt in reverse (last line first)
+36. (B) Display the contents of README.txt in reverse (last line first).
 
-37. (I) Display all of the last names in people.csv
+37. (I) Display all of the last names in people.csv.
 
-38. (A) Count the number of unique last names in people.csv
+38. (A) Count the number of unique last names in people.csv.
 
-39. (A) Did you accidentally count the CSV header in the previous challenge? 
+39. (A) Did you accidentally count the CSV header in the previous challenge?
 
 40. (A) There's a second way to exclude the CSV header from your count. Find it.
 
@@ -161,26 +161,26 @@ OK! Let's get started.
     last names in people.csv, can you prove whether or not one is more efficient
     (faster) than the other?
 
-42. (A) Count the number of people with the first name "Josiah" in people.csv
+42. (A) Count the number of people with the first name "Josiah" in people.csv.
 
-43. (I) Count the number of files (not directories) in the "challenges" directory 
+43. (I) Count the number of files (not directories) in the "challenges" directory .
 
-44. (I) Count the number of subdirectories in the "challenges" directory
+44. (I) Count the number of subdirectories in the "challenges" directory.
 
-45. (I) Remove all files with "deleteme" in the name
+45. (I) Remove all files with "deleteme" in the name.
 
 46. (I) In challenge 28 you found a file. Replace the string "You found the
     needle in the haystack!" with "The needle has been removed."
 
-47. (A) Transform people.csv from ',' delimited to '|' delimited and save the result in people_pipe.csv
+47. (A) Transform people.csv from ',' delimited to '|' delimited and save the result in people_pipe.csv.
 
-48. (A) Find all of the files in "bunch_of_files/" that are duplicates of "file001.rand"
+48. (A) Find all of the files in "bunch_of_files/" that are duplicates of "file001.rand".
 
 49. (A) Execute this challenge in exactly 2 steps
 
-    1) (B) Create an empty file named "supercalifragilisticexpialidocious.txt"
+    1) (B) Create an empty file named "supercalifragilisticexpialidocious.txt".
     2) (A) Remove "supercalifragilisticexpialidocious.txt". Your command may
-           only use a maximum 5 total characters (no wildcards or globs). 
+           only use a maximum 5 total characters (no wildcards or globs).
 
 50. (A) Create a set of empty files. Each file has a name in the form "L-N.txt"
     where L is a letter and N is a number. Valid letters are a,b,c, while valid
